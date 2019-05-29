@@ -1,5 +1,5 @@
 body {
-    font-family: 'Germania One', cursive;
+    font-family: 'ZCOOL KuaiLe', cursive;
     width: 100%;
     background-image: url('../img/wood-background.png');
 }
@@ -11,7 +11,7 @@ h1 {
     margin-top: 2%;
 }
 
-#avail {
+#main {
     float: left;
     margin-right: 6%;
     margin-left: 10%;
